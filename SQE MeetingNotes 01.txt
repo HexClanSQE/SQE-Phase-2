@@ -1,0 +1,18 @@
+------------------------------ SQE Assignment-02 (Meeting Notes) ----------------------
+------------------------------- Discussion of the main Agenda -------------------------
+
+1) which tool we should be using for Automation of UI test?
+2) Restrictions and limitations in other testing environments.
+3) Visisted and explored the blog of cucumber js and nightwatch js at :
+		https://nightwatchjs.org/blog/running-cucumber-tests-with-nightwatch/ 
+		Further logged on to the official website of nightwatch
+		https://nightwatchjs.org/guide/quickstarts/create-and-run-a-nightwatch-test.html
+
+4) Setting up the environment of Nightwatch js
+5) Setting up the environment of Cucumber js
+6) Running test automation of 'Rijksmuseum Amsterdam, home of the dutch masters' on our local machines
+
+last remarks
+-------The work should be completed within one day---------------
+--------Once done we will move towards the next steps -----------
+ 
