@@ -1,0 +1,10 @@
+------------------------------ SQE Assignment-02 (Meeting Notes) ----------------------
+------------------------------- Discussion of the main Agenda -------------------------
+
+1) Discussed issues in setting up nightwatch.js and cucumber.js in team meeing
+2) Discussed issues regarding browser drivers required to run test on nightwatch in team meeing
+3) The one who had set up nightwatch displayed how he was running the tests:
+
+4) Had a team meeting with teacher
+5) Discussed with teacher how much progress we have made
+6) Discussed the issues we were facing
