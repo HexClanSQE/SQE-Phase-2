@@ -1,0 +1,9 @@
+------------------------------ SQE Assignment-02 (Meeting Notes) ----------------------
+------------------------------- Discussion of the main Agenda -------------------------
+
+1) Despite the setup, we were facing issues in running test with nightwatch
+2) Syntax was difficult in nightwatch
+3) The diffinitions of gerkin steps in JS was diffcult for us 
+4) Despite writing tests, it could open site but not perform action
+5) Discussed other oprions we had
+6) Decided to go with codecept
