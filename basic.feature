@@ -1,12 +1,8 @@
-Feature: Finding Product's Description
-  In order to Find a product's Description
-  I will visit the website @https://demo.reactstorefront.io/
-
-  Scenario: Search for Product Description
-    Given I am on CATEGORY 1 Page
-    When I click on Product 1
-    Then I should see Product 1 Description
-
-  Scenario: Test whether the Product 1 is Available
-    Given I am on CATEGORY 1 Page
-    Then I should see Product 1
+Feature: Going to cart page
+  In order to Visit cart's page
+  I will go on to the website @https://demo.reactstorefront.io/
+  
+   Scenario: Going to cart page from category page2
+    Given I am on the category page
+    When I click clear all
+    Then I should see the unselect Items
